@@ -17,7 +17,7 @@ MultiGrid Mod for Bootstrap 3
 col-hd-* (col-hd-6 займёт пол блока) на FullHD экране
 
 
-Также работают col-xxs-*, col-4k-* и col-8k-* для малоэкранных (<420px), 4k и 8k  девайсов соответственно
+Также работают col-xxs-12, col-4k-12 и col-8k-12 для малоэкранных (<420px), 4k и 8k  девайсов соответственно
 
 .visible-hd, .visible-hd-block, .visible-hd-inline, .visible-hd-inline-block (будут показаны только на fullHD экранах)
 
