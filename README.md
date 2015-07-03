@@ -1,5 +1,6 @@
-# bootstrap-fullHD
+# bootstrap-MultiGrid
 MultiGrid Mod for Bootstrap 3
+Расширяет стандартную сетку bootstrap стилями для FullHD, 4k, 8k мониторов, а также для экранов менее 420px по ширине (hd, 4k, 8k, xss  соответственно)
 
 Подключить после css файла бутстрапа
 
@@ -12,7 +13,7 @@ MultiGrid Mod for Bootstrap 3
 
 Стили для HD мониторов
 
-col-hd-* (col-hd-6 займёт пол блока) на hd экране
+col-hd-* (col-hd-6 займёт пол блока) на FullHD экране
 
 
 Также работают col-xss-*, col-4k-* и col-8k-* для малоэкранных (<420px), 4k и 8k  девайсов соответственно
